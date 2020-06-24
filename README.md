@@ -6,6 +6,7 @@ Distributed Quantum Computing Simulation using Symbolic Computation
 
 ### References
 * [Towards a Distributed Quantum Computing Ecosystem](https://arxiv.org/abs/2002.11808) 
+* [Quantum Divide and Compute: Hardware Demonstrations and Noisy Simulations](https://arxiv.org/abs/2005.12874)
 * [Full-state quantum circuit simulation by using data compression](https://dl.acm.org/doi/10.1145/3295500.3356155)
 * [QuEST and High Performance Simulation of Quantum Computers](https://www.nature.com/articles/s41598-019-47174-9)
 * [Massively parallel quantum computer simulator, eleven years later](https://www.sciencedirect.com/science/article/pii/S0010465518303977)
