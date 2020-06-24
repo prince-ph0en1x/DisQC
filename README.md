@@ -1,8 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prince-ph0en1x/DisQC/blob/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prince-ph0en1x/DisQC/master)
 
-# DisQC
-Distributed Quantum Computing Simulation using Symbolic Computation
+# SymQuSim
+Symbolic CAS based Quantum Computing Simulator
 
 ### References
 * [Simulating large quantum circuits on a small quantum computer](https://arxiv.org/abs/1904.00102)
